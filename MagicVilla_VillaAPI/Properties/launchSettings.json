@@ -9,7 +9,7 @@
       "dotnetRunMessages": true,
       "applicationUrl": "http://localhost:5159"
     },
-    "https": {
+    "MagicVilla_Web": {
       "commandName": "Project",
       "launchUrl": "swagger",
       "environmentVariables": {
